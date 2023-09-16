@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozcanfatihcan&label=Profile%20views&color=0e75b6&style=flat" alt="ozcanfatihcan" /> </p>
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **Flutter** and **C#**
 
 - 📫 How to reach me **ozcanfatihcann@gmail.com**
 

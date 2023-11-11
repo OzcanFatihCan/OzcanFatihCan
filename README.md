@@ -1,8 +1,6 @@
 <h1 align="center">Hi There! 👋, I'm Ozcan Fatih Can</h1>
 <h3 align="center">I'm trying to develop an application using Flutter and C# in Istanbul. I studied Computer Programming at Istanbul University and Computer Engineering at Biruni University.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ozcanfatihcan&label=Profile%20views&color=0e75b6&style=flat" alt="ozcanfatihcan" /> </p>
-
 - 🔭 I’m currently working on **Flutter** and **C#**
 
 - 📫 How to reach me **ozcanfatihcann@gmail.com**

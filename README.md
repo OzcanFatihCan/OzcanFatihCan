@@ -1,5 +1,5 @@
 <h1 align="center">Hi There! 👋, I'm Ozcan Fatih Can</h1>
-<h3 align="center">I'm trying to develop applications using Flutter and C# in Istanbul. I studied Computer Programming at Istanbul University and Computer Engineering at Biruni University.</h3>
+<h3 align="center">I'm trying to develop applications using Flutter-Dart and Android-Kotlin in Istanbul. I studied Computer Programming at Istanbul University and Computer Engineering at Biruni University.</h3>
 
 - 🔭 I’m currently working on **Flutter** and **C#**
 

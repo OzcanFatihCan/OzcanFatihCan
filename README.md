@@ -6,7 +6,7 @@
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ozcanfatihcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozcanfatihcan" height="30" width="40" /></a>
-<a href="https://medium.com/@ozcanfatihcann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ozcanfatihcann" height="30" width="40" /></a>
+<a href="https://medium.com/@ozcanfatihcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ozcanfatihcan" height="30" width="40" /></a>
 </p>
 
 
